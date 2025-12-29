@@ -1,0 +1,6 @@
+- [ ] Remove existing historical photos from the project
+- [ ] Wait for user to upload correct historical photos
+- [ ] Process and add new historical photos to the gallery
+- [ ] Update Galleries.tsx with new photo paths and descriptions
+- [ ] Verify the updated historical gallery
+- [ ] Save checkpoint

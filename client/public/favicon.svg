@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Wheel Structure (Rose Red: #E31C25) -->
+  <circle cx="32" cy="30" r="24" fill="none" stroke="#E31C25" stroke-width="3"/>
+  <circle cx="32" cy="30" r="4" fill="#E31C25"/>
+  
+  <!-- Spokes -->
+  <g stroke="#E31C25" stroke-width="2">
+    <line x1="32" y1="6" x2="32" y2="54"/>
+    <line x1="8" y1="30" x2="56" y2="30"/>
+    <line x1="15" y1="13" x2="49" y2="47"/>
+    <line x1="15" y1="47" x2="49" y2="13"/>
+  </g>
+
+  <!-- Gondolas (Rose Red) -->
+  <g fill="#E31C25">
+    <circle cx="32" cy="6" r="3"/>
+    <circle cx="56" cy="30" r="3"/>
+    <circle cx="32" cy="54" r="3"/>
+    <circle cx="8" cy="30" r="3"/>
+    <circle cx="49" cy="13" r="3"/>
+    <circle cx="49" cy="47" r="3"/>
+    <circle cx="15" cy="47" r="3"/>
+    <circle cx="15" cy="13" r="3"/>
+  </g>
+
+  <!-- Support Structure (Stem Green: #008F39) -->
+  <path d="M32 30 L16 62 M32 30 L48 62" stroke="#008F39" stroke-width="3" stroke-linecap="round"/>
+  <line x1="12" y1="62" x2="52" y2="62" stroke="#008F39" stroke-width="3" stroke-linecap="round"/>
+</svg>
